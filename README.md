@@ -1,11 +1,11 @@
 # Pexels 4K 视频下载器
+<img width="1277" height="868" alt="捕获" src="https://github.com/user-attachments/assets/9cbf57ac-cc9f-4e50-89fc-5af47f256636" />
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows/)
 
 这是一个使用Python开发的图形界面应用程序，可以从Pexels网站下载4K视频。该工具支持批量下载、多线程加速和分辨率筛选等功能。
-![Uploading 捕获.PNG…]()
 
 ## 🌟 功能特点
 
