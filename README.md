@@ -5,6 +5,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows/)
 
 这是一个使用Python开发的图形界面应用程序，可以从Pexels网站下载4K视频。该工具支持批量下载、多线程加速和分辨率筛选等功能。
+![Uploading 捕获.PNG…]()
 
 ## 🌟 功能特点
 
